@@ -8,6 +8,7 @@ Fusión de Datos: El nodo central utiliza un sensor MPU 6050 para calcular orien
 Control de Motores: En función de los datos del ArUco y el MPU 6050, se generan señales para controlar los motores y dirigir al robot.
 Tecnologías y Librerías Usadas
 Arduino
+
 cpp
 Copy code
 #include <micro_ros_arduino.h>
